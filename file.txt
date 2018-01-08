@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 Sprite!
+=======
+Sprite!!
+>>>>>>> Fanta com2
 
 
 Fanta!!
