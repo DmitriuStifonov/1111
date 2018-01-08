@@ -1,13 +1,17 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sprite!
 =======
 Sprite!!
 >>>>>>> Fanta com2
+=======
+Sprite!!
+>>>>>>> Sprite comm2
 
 
 Fanta!!
 
-Pepsy!
+Pepsy!!
 
 
